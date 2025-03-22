@@ -9,6 +9,6 @@ int main(void) {
     tens = num / 10;
     ones = num % 10;
 
-    printf("The reversal is: %d%d", ones, tens);
+    printf("The reversal is: %d%d\n", ones, tens);
     return 0;
 }
