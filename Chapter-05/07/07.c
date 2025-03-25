@@ -38,4 +38,3 @@ int main(void) {
     printf("Biggest: %d\n", biggest);
     printf("Smallest: %d\n", smallest);
     return 0;
-}
